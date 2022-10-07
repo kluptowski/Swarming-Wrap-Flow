@@ -26,11 +26,6 @@
         <name>Flow</name>
     </types>
     <types>
-        <members>sse_Swarm_Wrap_Up_Screen</members>
-        <members>sse_Swarm_Wrap_Up_Trigger_Slack_Screen_Flow</members>
-        <name>FlowDefinition</name>
-    </types>
-    <types>
         <members>sse_demo_constants__mdt-%23se-demo-constants Layout</members>
         <name>Layout</name>
     </types>
