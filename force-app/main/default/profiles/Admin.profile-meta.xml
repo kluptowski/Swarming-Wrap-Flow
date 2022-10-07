@@ -4,6 +4,8 @@
         <editable>true</editable>
         <field>Case.sse_Swarm_Wrap_Up_Timestamp__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Swarm.sse_Swarm_Wrap_Up_Timestamp__c</field>
         <readable>true</readable>
